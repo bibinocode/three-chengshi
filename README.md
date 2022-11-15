@@ -23,7 +23,7 @@ $ yarn dev
 *** 
 __1、主页截图__
 
-![项目主页截图](./public/iamges/dev.png)
+![项目主页截图](.\public\iamges\dev.png)
 
 __2、项目结构__
 
